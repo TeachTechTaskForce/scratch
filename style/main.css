@@ -21,6 +21,18 @@ h2{
 	margin-top: 2%;
 }
 
+/*div.banner{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 150px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 20px;
+	background: gray;
+	transform: rotate(90deg) translate(50%);
+}*/
+
 div.col-2{
 	display: inline-block;
 	width: 46%;
