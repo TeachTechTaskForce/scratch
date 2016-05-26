@@ -1,2 +1,2 @@
-# scratch
-Resources for ScratchEd's Creative Computing curriculum.
+# ScratchEd: Creative Computing
+Resources for ScratchEd's Creative Computing curriculum. We are hosting static webpage versions of the lesson plans from the [Scratch Curriculum Guide](http://scratched.gse.harvard.edu/guide/files/CreativeComputing20141015.pdf) so that they can be easily accessed from [EduMap](https://github.com/andyras/edumap), a tool to connect educators with online computer science lesson plans.
